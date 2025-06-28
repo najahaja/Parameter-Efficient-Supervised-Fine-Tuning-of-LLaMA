@@ -52,7 +52,7 @@ The best answer is A.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/najahajaParameter-Efficient-Supervised-Fine-Tuning-of-LLaMA.git
+   git clone https://github.com/najahaja/Parameter-Efficient-Supervised-Fine-Tuning-of-LLaMA.git
    cd medical-lora-llama3.2
 2. Create and activate a virtual environment:
    ```bash
