@@ -52,7 +52,7 @@ The best answer is A.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/medical-lora-llama3.2.git
+   git clone https://github.com/najahajaParameter-Efficient-Supervised-Fine-Tuning-of-LLaMA.git
    cd medical-lora-llama3.2
 2. Create and activate a virtual environment:
    ```bash
@@ -71,12 +71,7 @@ The best answer is A.
    huggingface-cli login
 3. The LoRA adapters will be automatically downloaded when running the inference snippet from kaggle notebook
 
-## Notebook Access
 
-The complete implementation is available in Kaggle Notebooks (PEFT of llama 3.2 3b on a medical cot & Inference):
-
-[PEFT Training Notebook](https://www.kaggle.com/code/humaimaanwar/peft-of-llama-3-2-3b-on-a-medical-cot)
-[Inference Notebook](https://www.kaggle.com/code/humaimaanwar/inference)
 
 ## How to Use
 
